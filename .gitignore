@@ -1,0 +1,6 @@
+aed.code-workspace
+*.exe
+.vscode
+tempCodeRunnerFile.c
+teste.c
+teste2.c
