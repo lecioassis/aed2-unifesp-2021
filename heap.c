@@ -10,7 +10,7 @@ void heapify(char [][21], int, int);
 
 void heapSort(char [][21], int);
 
-int main(void){
+int main(){
     int N, M, i, j;
     scanf("%d", &N);
     char arr[N][21];
